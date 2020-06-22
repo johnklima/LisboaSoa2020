@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "616626684691",
+    "firebase_url": "https://applied-tractor-279610.firebaseio.com",
+    "project_id": "applied-tractor-279610",
+    "storage_bucket": "applied-tractor-279610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616626684691:android:a0c183b67986c0277690e6",
+        "android_client_info": {
+          "package_name": "com.cityarts.lisboasoa2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616626684691-6pf0e1cghhjjg80ohccunbjkjdofpg3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCps1_vYn5X_zR8krV0kcYuPMC4FXPAglc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616626684691-6pf0e1cghhjjg80ohccunbjkjdofpg3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
